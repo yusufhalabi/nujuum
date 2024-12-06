@@ -27,7 +27,7 @@ export default function Home() {
         </p>
         
         <h1 className="text-4xl sm:text-6xl font-bold text-[#2D2851] mb-4">
-          Learn Colloquial Arabic
+          Learn Spoken Arabic
         </h1>
         
         <p className="text-xl sm:text-2xl text-gray-600 mb-8">
