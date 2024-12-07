@@ -2,7 +2,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Nujuum - Learn Colloquial Arabic',
+  title: 'Nujuum - Learn Spoken Arabic',
   description: 'Daily guided lessons from native speakers',
 }
 
